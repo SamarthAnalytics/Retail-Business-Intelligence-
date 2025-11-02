@@ -15,6 +15,7 @@ The goal is to simulate a realistic retail analytics workflow:
 4. **Streamlit Dashboard** – Build a clean BI dashboard for interactive data exploration.
 
 ---
+Access link (create an active server on google collab to view) :https://indianapolis-isolated-leon-powers.trycloudflare.com/
 
 ## Tech Stack
 
