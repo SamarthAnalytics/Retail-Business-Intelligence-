@@ -27,6 +27,11 @@ The goal is to simulate a realistic retail analytics workflow:
 | Testing | Pytest |
 
 ---
+<img width="741" height="386" alt="Screenshot 2025-11-01 at 6 39 54 PM" src="https://github.com/user-attachments/assets/3ce476b8-ac2e-4535-91d9-75eb6bb6f01c" />
+<img width="762" height="274" alt="Screenshot 2025-11-01 at 6 40 19 PM" src="https://github.com/user-attachments/assets/977b3dc4-3b52-4f49-b1c6-cddc4d2d6ace" />
+<img width="773" height="335" alt="Screenshot 2025-11-01 at 6 40 25 PM" src="https://github.com/user-attachments/assets/d3c7f0b5-f0d3-48a8-a083-61840ca281df" />
+
+
 
 ■ Learnings Demonstrated
 • Building ETL and analytics pipelines in Python
