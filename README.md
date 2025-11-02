@@ -35,7 +35,7 @@ The goal is to simulate a realistic retail analytics workflow:
 • Developing interactive dashboards with Streamlit
 • Structuring production-ready analytics repositories
 ■ Connect
-■ Email: samarth.analytics@gmail.com
-■ LinkedIn: linkedin.com/in/samarth-verma14
+■ Email: 365vermasamarth14@gmail.com
+■ LinkedIn: https://www.linkedin.com/in/samarthverma14/
 ■ GitHub: github.com/SamarthAnalytics
 
