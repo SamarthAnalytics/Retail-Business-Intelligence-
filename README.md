@@ -28,5 +28,14 @@ The goal is to simulate a realistic retail analytics workflow:
 
 ---
 
-## Project Structure
+■ Learnings Demonstrated
+• Building ETL and analytics pipelines in Python
+• Designing SQL-based metrics inside DuckDB
+• Creating lightweight data models for BI use cases
+• Developing interactive dashboards with Streamlit
+• Structuring production-ready analytics repositories
+■ Connect
+■ Email: samarth.analytics@gmail.com
+■ LinkedIn: linkedin.com/in/samarth-verma14
+■ GitHub: github.com/SamarthAnalytics
 
